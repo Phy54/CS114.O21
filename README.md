@@ -1,5 +1,12 @@
- # CS114.O21
-[![](https://www.uit.edu.vn/sites/vi/files/banner_uit.png)](https://www.uit.edu.vn)
+ # <p align="center">CS114.O21 - Máy Học</p>
+
+
+<p align="center">
+  <a href="https://www.uit.edu.vn">
+    <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" alt="UIT">
+  </a>
+</p>
+
 
 
 ## Bảng Mục Lục
