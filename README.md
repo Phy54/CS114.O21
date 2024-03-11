@@ -10,13 +10,19 @@
 
 
 ## Bảng Mục Lục
+- [Giới thiệu bản thân](#giới-thiệu-bản-thân)
 - [Giới Thiệu Môn Học](#giới-thiệu-môn-học)
 - [Quá Trình Học](#quá-trình-học)
 - [Giảng Viên Hướng Dẫn](#giảng-viên-hướng-dẫn)
 - [Thành Viên Nhóm](#thành-viên-nhóm)
 - [Đồ Án Môn Học](#đồ-án-môn-học)
-  
 
+## GIỚI THIỆU BẢN THÂN
+<a name="gioithieubanthan"></a>
+* **Họ và tên**: Phương Hoàng Yến
+* **MSSV**: 22521716
+* **Lớp**: KHMT2022.4
+  
 ## Giới Thiệu Môn Học
 - Tên môn học: Máy học - MACHINE LEARNING
 - Mã môn học: CS114
@@ -38,7 +44,10 @@
 - ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 
 ## Thành Viên Nhóm
-update...
+<a name="thanhvien"></a>
+|**STT**|**Họ và tên**|**MSSV**|**Github**|**Email**|
+|---|---|---|---|---|
+|1|Phương Hoàng Yến|22521716|[22521716](https://github.com/Phy54/CS114.O21)|22521716@gm.uit.edu.vn|
 
 ## Đồ Án Môn Học
 update...
